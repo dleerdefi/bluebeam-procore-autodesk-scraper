@@ -1,6 +1,6 @@
 # Bluebeam, Procore, Autodesk Forum Scraper
 
-Scrapes community forums from **Bluebeam**, **Autodesk**, and **Procore**, then uses an LLM to extract structured product insights — feature gaps, sentiment, severity, and user agreement — and generates interactive visualizations.
+Scrapes community forums from **Bluebeam**, **Autodesk**, and **Procore**, then uses an LLM to extract structured product insights and generates interactive visualizations.
 
 ## Architecture
 
