@@ -13,8 +13,11 @@ build/
 # Scraped & generated data
 data/
 blog_export/
+blog_documentation/
 
 # IDE / tools
 .claude/
 .vscode/
 *.swp
+
+remotion
